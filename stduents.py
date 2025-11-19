@@ -181,7 +181,6 @@ student4 = Student(
     "Julius Mutindwa",
 )
 
-print(Student.total_students())
-print(Student.student_list())
-print(Student.student_list_2())
-print(Student.reverse_name("Alice", "Johnson"))
+
+
+
